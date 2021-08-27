@@ -7,4 +7,4 @@ Sole founder, developer, and designer of EnergeticThemes premium theme shop at T
 
 ## Recent works
 
-![Andaaz WordPress Theme](https://raw.githubusercontent.com/amjadr360/amjadr360/c8f7e599044379cce08314d5a1fd72bbec6d300e/images/andaaz.png)
+[![Andaaz WordPress Theme](https://raw.githubusercontent.com/amjadr360/amjadr360/c8f7e599044379cce08314d5a1fd72bbec6d300e/images/andaaz.png)](https://www.energeticthemes.com/themes/andaaz/)
