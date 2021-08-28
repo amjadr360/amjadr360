@@ -8,3 +8,34 @@ I am the sole founder, developer, and designer of EnergeticThemes, a premium the
 ## Recent works
 
 [![Andaaz WordPress Theme](https://raw.githubusercontent.com/amjadr360/amjadr360/c8f7e599044379cce08314d5a1fd72bbec6d300e/images/andaaz.png)](https://www.energeticthemes.com/themes/andaaz/)
+
+* * *
+
+[![Sayahat Travel Agency Elementor Template kit](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/sayahat.png)](https://energeticthemes.com/wp-templates/sayahat/)
+
+* * *
+
+[![Jewellery Store Elementor Template kit](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/jewellrywear.png)](https://energeticthemes.com/wp-templates/jewellrywear/)
+
+* * *
+
+[![Modeli Architecture & Engineering Elementor Template kit](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/modeli.png)](https://energeticthemes.com/wp-templates/modeli/)
+
+* * *
+
+[![Jagga Real Estate Template Kit](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/jagga.png)](https://energeticthemes.com/wp-templates/jagga/)
+
+* * *
+
+[![Oganic - Organic Food Elementor Template kit](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/oganic.png)](https://energeticthemes.com/wp-templates/oganic/)
+
+* * *
+[![Dabba WordPress Theme For Blog & Shop](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/dabba.png)](https://www.energeticthemes.com/themes/dabba/)
+
+* * *
+
+[![Dukandari A Modern Minimalist woocommerce eCommerce Theme](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/dukandari.png)](https://www.energeticthemes.com/themes/dukandari/)
+
+* * *
+
+[![Munfarid WordPress Theme For Blog & Shop](https://raw.githubusercontent.com/amjadr360/amjadr360/main/images/munfarid.png)](https://www.energeticthemes.com/themes/munfarid/)
