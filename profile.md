@@ -1,6 +1,6 @@
 Nice having you here! My name is Amjad, with 8 years of hands-on experience designing, building, debugging, optimizing, launching, and scaling WordPress products using modern technologies.
 
-**I am here to help you** solve your WordPress technical and web design (UI/UX) related problems. Moreover, I can design and develop a custom theme or plugin from scratch with a high-quality solution by going above and beyond.
+**I am here to help you** solve your WordPress technical and web design (UI/UX) related problems(anything from Front-end to back-end). Moreover, I can design and develop a custom theme or plugin from scratch with a high-quality solution by going above and beyond.
 
 I am the sole founder, developer, and designer of EnergeticThemes, a premium theme shop, at ThemeForest as featured and Elite Author. 
 
