@@ -4,6 +4,21 @@ Nice having you here! My name is Amjad, with 8 years of hands-on experience desi
 
 I am the sole founder, developer, and designer of EnergeticThemes, a premium theme shop, at ThemeForest as featured and Elite Author. 
 
+## What Can I Do For You?
+- Website and database optimization
+- Build custom WordPress themes
+- Build custom WordPress plugins
+- PSD to WordPress
+- HTML to WordPress
+- WordPress Search Engine Optimization
+- Extension of existing theme or plugin functionality
+- Maintenance, Backups, & Updates
+- Custom API Implementations
+- WordPress Troubleshooting & Debug Assistance
+- WordPress training
+- Hack cleanup and security setup
+- Multisite configuration
+
 
 ## Recent works
 
