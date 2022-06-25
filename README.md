@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice having you here! My name is Amjad, with 8 years of hands-on experience efficiently designing, building, launching, and scaling WordPress products using modern technologies.
+Nice having you here! My name is Amjad, with 9 years of hands-on experience efficiently designing, building, launching, and scaling WordPress products using modern technologies.
 
 <!--
 **amjadr360/amjadr360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
